@@ -1,8 +1,10 @@
 ## Olá! Sou o Rodrigo Alaor 👋
 ### Desenvolvedor de Software e Web Júnior formado em Ciência da Computação. Entusiasta de tecnologia, com experiência em desenvolvimento de sistemas, automação de processos e suporte técnico. Habilidade em Python, JavaScript e automação com Selenium. Querendo sempre aprender cadas vez mais!
+ 
 
-![Rodrigo_Alaor GitHub stats](https://github-readme-stats.vercel.app/api?username=zmixtv1&show_icons=true&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmixtv1&layout=compact)
+
+![Rodrigo_Alaor GitHub stats](https://github-readme-stats.vercel.app/api?username=zmixtv1&show_icons=true&theme=cobalt&locale=pt-pt&rank_icon=github)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmixtv1&layout=pie&theme=cobalt&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
 ## Principais "Linguagens"
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

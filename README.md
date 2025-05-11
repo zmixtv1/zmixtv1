@@ -10,6 +10,9 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/zmixtv1/zmixtv1/output/github-snake.svg" />
 </picture>
 
+![image](https://github.com/user-attachments/assets/8d5f721a-0065-4aa0-90fd-ab50aebe8b04)
+
+
 ## Principais "Linguagens"
 ![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)

@@ -9,6 +9,7 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zmixtv1/zmixtv1/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/zmixtv1/zmixtv1/output/github-snake.svg" />
 </picture>
+
 ![image](https://github.com/user-attachments/assets/34388944-a500-4cbe-8539-e83ef2b872fa)
 
 ![image](https://github.com/user-attachments/assets/8d5f721a-0065-4aa0-90fd-ab50aebe8b04)

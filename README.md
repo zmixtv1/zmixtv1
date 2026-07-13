@@ -1,9 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Ol%C3%A1!+Sou+o+Rodrigo+Alaor+%F0%9F%91%8B)](https://git.io/typing-svg)
 ### Desenvolvedor de Software e Web Júnior formado em Ciência da Computação. Entusiasta de tecnologia, com experiência em desenvolvimento de sistemas, automação de processos e suporte técnico. Habilidade em Python, JavaScript e automação com Selenium. Querendo sempre aprender cadas vez mais!
 
-![Rodrigo_Alaor GitHub stats](https://github-readme-stats.vercel.app/api?username=zmixtv1&show_icons=true&theme=cobalt&locale=pt-pt&rank_icon=github)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmixtv1&layout=pie&theme=cobalt&locale=pt-pt)](https://github.com/anuraghazra/github-readme-stats)
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zmixtv1/zmixtv1/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zmixtv1/zmixtv1/output/github-snake.svg" />
@@ -11,7 +8,7 @@
 </picture>
 
 
-![alt text](image.png)
+
 
 
 ## Principais "Linguagens"
